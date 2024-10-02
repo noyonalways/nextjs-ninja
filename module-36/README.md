@@ -32,6 +32,9 @@
 
 # References
 
+- [Next JS](https://nextjs.org/)
+- [Routing Fundamentals](https://nextjs.org/docs/app/building-your-application/routing)
+
 # Introduction to Next JS
 
 ### PHP (Server-side Scripting Language)

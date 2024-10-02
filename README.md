@@ -16,7 +16,11 @@
     </h3>
 </p>
 
-## Table of Contents
+## Modules
+
+- [Module 36: Fundamentals of Next JS](./module-36/README.md)
+- [Module 37: Next JS Core Concepts Part-1](./module-37/README.md)
+- [Module 38: Next JS Core Concepts Part-2](./module-38/README.md)
 
 ## Contact
 
