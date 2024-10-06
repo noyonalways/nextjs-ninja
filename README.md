@@ -21,6 +21,14 @@
 - [Module 36: Fundamentals of Next JS](./module-36/README.md)
 - [Module 37: Next JS Core Concepts Part-1](./module-37/README.md)
 - [Module 38: Next JS Core Concepts Part-2](./module-38/README.md)
+- [Module 39: Next JS Authentication System](./module-39/README.md)
+- [Module 40: Found X Part 1](./module-40/README.md)
+- [Module 41: Found X Part 2](./module-41/README.md)
+- [Module 42: Found X Part 3](./module-42/README.md)
+- [Module 43: Found X Part 4](./module-43/README.md)
+- [Module 44: Found X Part 5](./module-44/README.md)
+- [Module 45: Found X Part 6](./module-45/README.md)
+- [Module 46: Found X Part 7](./module-46/README.md)
 
 ## Contact
 
